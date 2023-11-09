@@ -1,0 +1,21 @@
+﻿.inputbox {
+    border-color: darkgray;
+}
+.margenes {
+    padding: 0 0 0 10px;
+}
+
+.h2s {
+    text-align: center;
+    padding: 10px;
+    color:dimgray;
+}
+
+#footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
